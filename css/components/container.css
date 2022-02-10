@@ -1,0 +1,14 @@
+.container {
+  /* TODO */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  gap: 20px;
+  margin-right: 25%;
+}
+
+.container h1 {
+  font-size: 40px;
+}
